@@ -1,2 +1,2 @@
 # MeuPrimeiroDiret-rio
-Criando meu primeiro diretório
+Criando meu primeiro diretorio
